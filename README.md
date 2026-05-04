@@ -140,19 +140,15 @@ Busco constantemente aprimorar minhas habilidades e construir projetos que agreg
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel-sferreira&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" 
-/>
-<img 
-      align="left" 
-      alt="Top Linguagens" 
-      height="200" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel-sferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+  />&nbsp;
+  <img 
+    alt="Top Linguagens" 
+    height="180" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel-sferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
-
 </p>
