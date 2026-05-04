@@ -1,3 +1,5 @@
+<img width="100%" src="https://raw.githubusercontent.com/gabriel-sferreira/gabriel-sferreira/main/banner.svg" alt="Banner Gabriel Silva"/>
+
 # 👨🏽‍💻 Gabriel Silva
 
 **`Desenvolvedor FullStack`**
