@@ -10,7 +10,7 @@ Busco constantemente aprimorar minhas habilidades e construir projetos que agreg
       <a href="https://github.com/gabriel-sferreira?tab=followers">
          <img alt="seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/gabriel-sferreira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/></a>
       <a href="https://github.com/gabriel-sferreira?tab=repositories&sort=stargazers">
-         <img alt="total estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gabriel-sferreira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+         <img alt="total estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gabriel-sferreira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&cache=0"/></a>
         <a href="https://www.linkedin.com/in/gabrielllferreira" target="_blank">
   <img alt="LinkedIn"
   src="https://img.shields.io/badge/LinkedIn-1155ba?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -143,14 +143,14 @@ Busco constantemente aprimorar minhas habilidades e construir projetos que agreg
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Streak" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabriel-sferreira&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://streak-stats.demolab.com?user=gabriel-sferreira&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" 
 />
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Top Linguagens" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-sferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
