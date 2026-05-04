@@ -143,16 +143,16 @@ Busco constantemente aprimorar minhas habilidades e construir projetos que agreg
 <p>
   <img 
     align="left" 
-    alt="GitHub Streak" 
+    alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://streak-stats.demolab.com?user=gabriel-sferreira&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel-sferreira&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" 
 />
 <img 
       align="left" 
       alt="Top Linguagens" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-sferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel-sferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
 
 </p>
