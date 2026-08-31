@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Sou Gabriel Silva Ferreira, tenho 22 anos e sou de Goiânia (GO).
+Olá! Sou Gabriel Silva Ferreira, tenho 23 anos e sou de Goiânia (GO).
 Estudante de Análise e Desenvolvimento de Sistemas pela PUC Goiás, apaixonado por tecnologia e desenvolvimento de software.
 Busco constantemente aprimorar minhas habilidades e construir projetos que agreguem valor, com foco em crescimento profissional na área de desenvolvimento.
 
