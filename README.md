@@ -140,14 +140,28 @@ Busco constantemente aprimorar minhas habilidades e construir projetos que agreg
 <br/>
 <br/>
 
+### 🚀 Projetos em Destaque
+
+<p align="center">
+  <a href="https://github.com/gabriel-sferreira/Projeto-Integrador">
+    <img src="https://github-readme-stats-seven-pi-58.vercel.app/api/pin/?username=gabriel-sferreira&repo=Projeto-Integrador&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/gabriel-sferreira/gerenciador-tarefas-api">
+    <img src="https://github-readme-stats-seven-pi-58.vercel.app/api/pin/?username=gabriel-sferreira&repo=gerenciador-tarefas-api&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/gabriel-sferreira/controle-estoque-web">
+    <img src="https://github-readme-stats-seven-pi-58.vercel.app/api/pin/?username=gabriel-sferreira&repo=controle-estoque-web&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/gabriel-sferreira/sistema-cadastro-java">
+    <img src="https://github-readme-stats-seven-pi-58.vercel.app/api/pin/?username=gabriel-sferreira&repo=sistema-cadastro-java&theme=tokyonight" />
+  </a>
+</p>
+
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats-seven-pi-58.vercel.app/api?username=gabriel-sferreira&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" 
-  />&nbsp;
   <img 
     alt="Top Linguagens" 
     height="180" 
