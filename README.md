@@ -146,11 +146,11 @@ Busco constantemente aprimorar minhas habilidades e construir projetos que agreg
   <img 
     alt="GitHub Stats" 
     height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel-sferreira&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" 
+    src="https://github-readme-stats-seven-pi-58.vercel.app/api?username=gabriel-sferreira&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" 
   />&nbsp;
   <img 
     alt="Top Linguagens" 
     height="180" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel-sferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+    src="https://github-readme-stats-seven-pi-58.vercel.app/api/top-langs/?username=gabriel-sferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
 </p>
